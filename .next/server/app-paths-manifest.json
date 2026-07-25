@@ -1,0 +1,20 @@
+{
+  "/api/newsletter/route": "app/api/newsletter/route.js",
+  "/api/comments/route": "app/api/comments/route.js",
+  "/auth/callback/route": "app/auth/callback/route.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/auth/signup/page": "app/auth/signup/page.js",
+  "/403/page": "app/403/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/articles/page": "app/articles/page.js",
+  "/articles/[slug]/page": "app/articles/[slug]/page.js",
+  "/category/[slug]/page": "app/category/[slug]/page.js",
+  "/page": "app/page.js",
+  "/search/page": "app/search/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/admin/articles/new/page": "app/admin/articles/new/page.js",
+  "/admin/categories/page": "app/admin/categories/page.js",
+  "/admin/articles/[id]/edit/page": "app/admin/articles/[id]/edit/page.js",
+  "/admin/articles/page": "app/admin/articles/page.js",
+  "/admin/page": "app/admin/page.js"
+}
