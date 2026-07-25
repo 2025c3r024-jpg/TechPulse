@@ -7,12 +7,11 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
-  },
-  "dependencies": {
+    "dependencies": {
     "@supabase/ssr": "^0.5.1",
     "@supabase/supabase-js": "^2.45.4",
     "@tailwindcss/typography": "^0.5.15",
-    "next": "14.2.15",
+    "next": "latest",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-markdown": "^9.0.1",
@@ -20,8 +19,11 @@
     "remark-gfm": "^4.0.0",
     "lucide-react": "^0.454.0",
     "clsx": "^2.1.1",
-    "date-fns": "^4.1.0"
-  },
+    "date-fns": "^4.1.0",
+    "eslint": "latest",
+    "eslint-config-next": "latest"
+    }
+
   "devDependencies": {
     "@types/node": "^22.8.6",
     "@types/react": "^18.3.12",
